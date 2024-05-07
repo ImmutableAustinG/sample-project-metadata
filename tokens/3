@@ -1,17 +1,17 @@
 {
     "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBTr2ETEh-APq7sokdNYqQEJu3xMThnJjVHTwgILX_7skVEVlH",
     "token_id": "3",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT",
+    "name": "Watermelon",
     "description": "This NFT is my third Immutable zkEVM NFT",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Color",
+        "value": "RedGreen"
       },
       {
         "trait_type": "Coat",

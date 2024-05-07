@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Fruit Bowl",
+    "description": "Fruit bowls",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ7lL4UBOzpsh7Ze4DZPKwUCXY6UlTSdgKxQBVm3G9qgQhMZto",
+    "external_link": "https://google.com" 
 }
