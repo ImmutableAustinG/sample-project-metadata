@@ -1,6 +1,8 @@
 {
     "id": 3,
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBTr2ETEh-APq7sokdNYqQEJu3xMThnJjVHTwgILX_7skVEVlH",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmYtbzbCeKmhJ42ez7zqwhV3f9GgQBLahiRxed4bvgUESL",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmYtbzbCeKmhJ42ez7zqwhV3f9GgQBLahiRxed4bvgUESL",
+    "animation_url_mime_type":"video/mp4",
     "token_id": "3",
     "background_color": null,
     "animation_url": null,
