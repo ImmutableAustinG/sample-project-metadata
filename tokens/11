@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "image": "https://cdn.blocktrucks.io/nft/limited-edition-truck-packs/tokens/4.png",
+  "token_id": "9",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Carbon Truck Pack",
+  "description": "A limited edition truck pack boasting a set of carbon series cosmetics.",
+  "external_url": null,
+  "external_link": "https://blocktrucks.io",
+  "attributes": [
+    {
+      "trait_type": "Pack Type",
+      "value": "Limited Edition Truck Pack"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Coat",
+      "value": "Tails"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bow Tie"
+    }
+  ]
+}
