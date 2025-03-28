@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "image": "https://cdn4.vectorstock.com/i/1000x1000/54/93/victory-cup-trophy-symbol-vector-31955493.jpg",
+  "token_id": "10",
+  "background_color": null,
+  "animation_url": "https://gateway.pinata.cloud/ipfs/QmYtbzbCeKmhJ42ez7zqwhV3f9GgQBLahiRxed4bvgUESL",
+  "youtube_url": null,
+  "name": "Test zkEVM NFT #1",
+  "description": "This NFT is my first Immutable zkEVM NFT",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Coat",
+      "value": "Tails"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bow Tie"
+    }
+  ]
+}
